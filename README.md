@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashisbhandari&label=Profile%20views&color=0e75b6&style=flat" alt="ashisbhandari" /> </p>
 
-- 🌱 I’m currently learning **Django(python)**
+- 🌱 I’m currently learning **Django(python)**n
 
 - 📫 How to reach me **ashishbhandari380@gmail.com**
 
@@ -33,5 +33,6 @@
  </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashisbhandari&show_icons=true&locale=en&layout=compact" alt="ashisbhandari" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashisbhandari&show_icons=true&locale=en" alt="ashisbhandari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashisbhandari&show_icons=true&locale=en&layout=compact" alt="ashisbhandari" /></p><h1 style="color: #2c3e50; text-align: center;">🚀 Thank You for Visiting My GitHub! 🚀</h1>
+<p style="text-align: center; font-size: 18px;">If you like my work, please don’t forget to follow 🙌</p>
+
