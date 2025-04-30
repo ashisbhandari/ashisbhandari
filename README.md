@@ -32,6 +32,6 @@
     
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashisbhandari&show_icons=true&locale=en&layout=compact" alt="ashisbhandari" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashisbhandari&show_icons=true&locale=en&layout=compact" alt="ashisbhandari" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashisbhandari&show_icons=true&locale=en" alt="ashisbhandari" /></p>
