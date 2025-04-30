@@ -33,5 +33,5 @@
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashisbhandari&show_icons=true&locale=en&layout=compact" alt="ashisbhandari" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashisbhandari&show_icons=true&locale=en" alt="ashisbhandari" /></p>
+<h1 style="color: #2c3e50; text-align: center;">🚀 Thank You for Visiting My GitHub! 🚀</h1>
+<p style="text-align: center; font-size: 18px;">If you like my work, please don’t forget to follow 🙌</p>
